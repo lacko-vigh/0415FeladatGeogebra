@@ -1,0 +1,58 @@
+body {
+    background-color: lightyellow;
+    font-family: arial;
+
+}
+
+h1 {
+    color: orange;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 0px;
+    color: #999999;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto 0 auto;
+    padding: 5px;
+}
+
+header {
+    border-style: dotted;
+    border-color: green;
+    border-width: 5px;
+}
+
+#bevezeto {
+    font-style: italic;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.oszlop {
+    float: left;
+    width: 300px;
+    margin: 20px;
+}
+
+a:link, a:visited, a:active {
+    color: orange;
+    text-decoration: none;
+    font-weight: bold;    
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: lighter;
+}
+
+img {
+    border-style: solid;
+    margin-top: 0px;
+    width: 280px;
+    color: yellow;
+}
