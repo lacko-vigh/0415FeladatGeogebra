@@ -51,8 +51,8 @@ a:hover {
 }
 
 img {
-    border-style: solid;
+    border: blue solid 1pt;
     margin-top: 0px;
     width: 280px;
-    color: yellow;
+    
 }
